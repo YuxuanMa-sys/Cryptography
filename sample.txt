@@ -1,0 +1,9 @@
+This is a sample secret text file.
+It contains some confidential information that needs to be protected.
+
+TOP SECRET INFORMATION:
+- Project Codename: CryptoMaster
+- Launch Date: 2024-06-15
+- Key Personnel: John Doe, Jane Smith
+
+This file will be used to demonstrate file encryption capabilities of the CryptoToolkit. 
